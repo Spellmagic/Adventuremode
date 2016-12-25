@@ -1,0 +1,7 @@
+#Mon Nov 21 23:05:13 KST 2016
+base.0=C\:\\Users\\KJH\\OneDrive\\GCST\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2f60854b395650049a8225e233a735ba36202d18
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\KJH\\OneDrive\\GCST\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8e87661ae3680855d14200145fdf5b66f7aa649b\\classes.dex
+base.1=C\:\\Users\\KJH\\OneDrive\\GCST\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8e87661ae3680855d14200145fdf5b66f7aa649b
+file.0=C\:\\Users\\KJH\\OneDrive\\GCST\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2f60854b395650049a8225e233a735ba36202d18\\classes.dex

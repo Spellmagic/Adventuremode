@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\KJH\\OneDrive\\GCST\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\KJH\\OneDrive\\GCST\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.0.1\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\KJH\\OneDrive\\GCST\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep_beep.wav",
+        "source": "C:\\Users\\KJH\\OneDrive\\GCST\\app\\src\\main\\res\\raw\\beep_beep.wav"
+    }
+]

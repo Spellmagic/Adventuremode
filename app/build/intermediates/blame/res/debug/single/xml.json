@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\KJH\\OneDrive\\GCST\\app\\build\\intermediates\\res\\merged\\debug\\xml\\google_analytics_tracker.xml",
+        "source": "C:\\Users\\KJH\\OneDrive\\GCST\\app\\src\\main\\res\\xml\\google_analytics_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\KJH\\OneDrive\\GCST\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\KJH\\OneDrive\\GCST\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\KJH\\OneDrive\\GCST\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_google_maps.xml",
+        "source": "C:\\Users\\KJH\\OneDrive\\GCST\\app\\src\\main\\res\\xml\\preferences_google_maps.xml"
+    }
+]
